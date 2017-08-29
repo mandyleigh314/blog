@@ -1,0 +1,45 @@
+body {
+  background-color: #7fc5f7;
+  color: #211b2f;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+  padding: 10px;
+  background-color: #99d640;
+  color: #bf4822;
+}
+
+.nav-link {
+  text-decoration: none;
+  margin: 10px;
+}
+
+ul {
+  list-style: none;
+  width: 50%;
+}
+
+li {
+  border: 2px dotted black;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  margin: 10px;
+}
+
+h1 {
+  border: 5px solid pink;
+}
+
+h3 {
+  border: 1px dotted gray;
+}
